@@ -110,7 +110,7 @@ jobs:
 
                   plugin_introduction: yes
 
-                  plugin_habits_chart: yes
+                  plugin_habits_charts: yes
 
                   #plugin_followup: yes
                   #plugin_followup_sections: user
