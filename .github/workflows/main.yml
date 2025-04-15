@@ -19,28 +19,28 @@ jobs:
           user: soham-metha
           config_timezone: Asia/Calcutta
           committer_message: "update metrics"
-          config_output: jpg
+          config_output: json
 
-          extras_css: |
-            .field svg {
-              fill: #58a6ff;
-            }
-            .field {
-              color: #56d364;
-            }
-            h1, h2, h3 {
-              color: #d2a8ff !important;
-            }
+          #extras_css: |
+          #  .field svg {
+          #    fill: #58a6ff;
+          #  }
+          #  .field {
+          #    color: #56d364;
+          #  }
+          #  h1, h2, h3 {
+          #    color: #d2a8ff !important;
+          #  }
 
-          extras_js: |
-            for (const {a, b} of [
-              {a:"#216e39", b:"#56d364"},  
-              {a:"#30a14e", b:"#58a6ff"}, 
-              {a:"#40c463", b:"#39c5cf"}, 
-              {a:"#9be9a8", b:"#ff7b72"},
-              {a:"#ebedf0", b:"#0d1117"},
-            ])
-            document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
+          #extras_js: |
+          #  for (const {a, b} of [
+          #    {a:"#216e39", b:"#56d364"},  
+          #    {a:"#30a14e", b:"#58a6ff"}, 
+          #    {a:"#40c463", b:"#39c5cf"}, 
+          #    {a:"#9be9a8", b:"#ff7b72"},
+          #    {a:"#ebedf0", b:"#0d1117"},
+          #  ])
+          #  document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
 
           # Basic sections
           base: header, activity, community, repositories
