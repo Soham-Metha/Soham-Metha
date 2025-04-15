@@ -20,6 +20,7 @@ jobs:
                   config_timezone: Asia/Calcutta
                   committer_message: "update metrics"
                   config_output: svg
+                  config_display: large
                   config_order: base.header, leetcode, base.repositories, languages, lines, habits, activity, repositories
 
                   extras_css: |
