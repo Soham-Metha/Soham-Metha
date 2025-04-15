@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]  # Every hour
+  #schedule: [{cron: "0 * * * *"}]  # Every hour
   workflow_dispatch:
-  push: {branches: ["main", "master"]}
+  #push: {branches: ["main", "master"]}
 
 permissions:
   contents: write
