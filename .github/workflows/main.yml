@@ -66,6 +66,6 @@ jobs:
 
           plugin_activity: yes
 
-          #plugin_repositories: yes
+          plugin_repositories: yes
           plugin_repositories_affiliations:  owner, collaborator
           repositories_skipped: Maxcastel10/Picto-game
