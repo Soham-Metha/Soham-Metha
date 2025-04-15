@@ -19,7 +19,7 @@ jobs:
           user: soham-metha
           config_timezone: Asia/Calcutta
           committer_message: "update metrics"
-          config_output: json
+          config_output: svg
 
           extras_css: |
             .field svg {
