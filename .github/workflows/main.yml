@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push: {branches: ["main", "master"]}
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
