@@ -20,7 +20,7 @@ jobs:
           config_timezone: Asia/Calcutta
           committer_message: "update metrics"
 
-          config_presets: "@tokyonight"
+          config_presets: "@ocean-blue"
 
           # Basic sections
           base: header, activity, community, repositories
