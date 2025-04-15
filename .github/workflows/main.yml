@@ -20,6 +20,10 @@ jobs:
           config_timezone: Asia/Calcutta
           committer_message: "update metrics"
 
+          config_theme: tokyonight
+          config_border: yes
+          config_border_radius: 12
+
           # Basic sections
           base: header, activity, community, repositories
           template: classic
@@ -45,4 +49,4 @@ jobs:
           plugin_activity: yes
 
           plugin_repositories: yes
-          plugin_repositories_affiliations:  owner, collaborator, organization_member
+          plugin_repositories_affiliations:  owner, collaborator
