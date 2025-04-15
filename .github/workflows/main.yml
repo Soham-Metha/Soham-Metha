@@ -23,22 +23,22 @@ jobs:
 
           extras_css: |
             .field svg {
-              fill: #8be9fd;
+              fill: #58a6ff;
             }
             .field {
-              color: #ff79c6;
+              color: #56d364;
             }
             h1, h2, h3 {
-              color: #bd93f9 !important;
+              color: #d2a8ff !important;
             }
 
           extras_js: |
             for (const {a, b} of [
-              {a:"#216e39", b:"#50fa7b"},
-              {a:"#30a14e", b:"#8be9fd"},
-              {a:"#40c463", b:"#ffb86c"},
-              {a:"#9be9a8", b:"#bd93f9"},
-              {a:"#ebedf0", b:"#282a36"},
+              {a:"#216e39", b:"#56d364"},  
+              {a:"#30a14e", b:"#58a6ff"}, 
+              {a:"#40c463", b:"#39c5cf"}, 
+              {a:"#9be9a8", b:"#ff7b72"},
+              {a:"#ebedf0", b:"#0d1117"},
             ])
             document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
 
