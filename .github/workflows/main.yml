@@ -15,7 +15,7 @@ jobs:
           # Core config
           user: soham-metha
           config_timezone: Asia/Calcutta
-          committer_message: " update metrics"
+          committer_message: "update metrics"
 
           # Basic sections
           base: header, activity, community, repositories
@@ -30,8 +30,6 @@ jobs:
           plugin_followup_sections: repositories, user
           plugin_lines: yes
           plugin_activity: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
 
           # Include org contributions
           plugin_repositories: yes
