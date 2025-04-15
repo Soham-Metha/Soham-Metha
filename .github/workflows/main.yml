@@ -20,14 +20,14 @@ jobs:
                   config_timezone: Asia/Calcutta
                   committer_message: "update metrics"
                   config_output: svg
-                  config_order: base.header, leetcode, languages, lines, habits, activity, base.activity+community, base.repositories, repositories
+                  config_order: base.header, leetcode, repositories, languages, lines, habits, activity, base.repositories
 
                   extras_css: |
                       .field svg {
-                        fill: #36eeb1;
+                        fill: #58a6ff;
                       }
                       .field {
-                        color: #56d364;
+                        color: #36eeb1;
                       }
                       h1, h2, h3 {
                         color: #d2a8ff !important;
@@ -98,7 +98,7 @@ jobs:
                       document.querySelectorAll(` [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
 
                   # Basic sections
-                  base: header, activity, community, repositories
+                  base: header, repositories
                   template: classic
 
                   # Plugins
@@ -124,4 +124,4 @@ jobs:
 
                   plugin_repositories: yes
                   plugin_repositories_affiliations: owner, collaborator
-                  repositories_skipped: Maxcastel10/Picto-game
+                  repositories_skipped: Maxcastel10/Picto-game, Soham-Metha/Soham-Metha
