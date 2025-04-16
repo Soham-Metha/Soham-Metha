@@ -21,8 +21,8 @@ jobs:
                   committer_message: "update metrics"
                   config_output: svg
                   config_display: large
-                  config_padding: 0, +50%
-                  config_order: base.header, introduction, achievements, base.activity+community, base.repositories, leetcode, languages, followup, lines, habits, activity, isocalendar, repositories
+                  config_padding: 0, +40%
+                  config_order: base.header, introduction, base.activity+community, base.repositories, languages, leetcode, lines, followup, habits, activity, isocalendar, repositories
 
                   extras_css: |
                       .field svg {
@@ -116,9 +116,9 @@ jobs:
 
                   plugin_habits: yes
                   plugin_habits_charts: yes
+                  plugin_habits_charts_type: "graph"
 
-
-                  plugin_achievements: yes
+                  #plugin_achievements: yes
 
                   plugin_followup: yes
                   plugin_followup_sections: user
@@ -133,4 +133,5 @@ jobs:
 
                   plugin_repositories: yes
                   plugin_repositories_affiliations: owner, collaborator
+                  plugin_repositories_featured: Team-Binary-Brains/virex-core
                   repositories_skipped: Maxcastel10/Picto-game, Soham-Metha/Soham-Metha
