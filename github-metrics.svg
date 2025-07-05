@@ -253,7 +253,7 @@ Completed Diploma in the same @ 2024</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    136k added, 72.5k removed
+                                    538k added, 74.6k removed
                                 </div>
                             </section>
                             <section>
@@ -444,6 +444,12 @@ Completed Diploma in the same @ 2024</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">Soham-Metha/Explorer</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">Soham-Metha/virex</span>
                         </div>
                         <div class="field">
@@ -451,6 +457,12 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">Team-Binary-Brains/virex-core</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">Soham-Metha/DSAL-SPPU</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -464,20 +476,20 @@ Completed Diploma in the same @ 2024</div>
                             </svg>
                             <span class="diff-handle">GameDevUtopia/EventGame</span>
                         </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">Team-Binary-Brains/virex-vs</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">Soham-Metha/DSL-SPPU-PRACTICALS</span>
-                        </div>
                     </section>
                     <section>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +395k</span>
+                                <span class="deleted">     -3</span>
+                            </div>
+                            <span> </span>
+                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -509,6 +521,18 @@ Completed Diploma in the same @ 2024</div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
+                                <span class="added"> +6.01k</span>
+                                <span class="deleted"> -2.14k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
                                 <span class="added"> +5.02k</span>
                                 <span class="deleted"> -1.83k</span>
                             </div>
@@ -523,30 +547,6 @@ Completed Diploma in the same @ 2024</div>
                             <div class="diff-stats">
                                 <span class="added"> +5.12k</span>
                                 <span class="deleted">     -2</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +4.48k</span>
-                                <span class="deleted">    -99</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +2.77k</span>
-                                <span class="deleted"> -1.07k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -661,7 +661,7 @@ Completed Diploma in the same @ 2024</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 18 commits)</small>
+                    <small class="h-details">(computed from last 19 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -790,12 +790,12 @@ Completed Diploma in the same @ 2024</div>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,86L49.13,105L68.696,86L88.261,10L107.826,67L127.391,86L146.957,86L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,67L323.043,105L342.609,67L362.174,105L381.739,105L401.304,105L420.87,48L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,48L401.304,105L381.739,105L362.174,105L342.609,67L323.043,105L303.478,67L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,86L127.391,86L107.826,67L88.261,10L68.696,86L49.13,105L29.565,86L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,86L49.13,86L68.696,86L88.261,10L107.826,67L127.391,86L146.957,86L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,67L323.043,105L342.609,67L362.174,105L381.739,105L401.304,105L420.87,48L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,48L401.304,105L381.739,105L362.174,105L342.609,67L323.043,105L303.478,67L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,86L127.391,86L107.826,67L88.261,10L68.696,86L49.13,86L29.565,86L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="86" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="49.130434782608695" cy="86" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="86" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="88.26086956521739" cy="10" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="107.82608695652173" cy="67" r="2" fill="#106cbc"/>
@@ -821,7 +821,7 @@ Completed Diploma in the same @ 2024</div>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                 <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="29.565217391304348" y="86" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="49.130434782608695" y="86" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="86" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="88.26086956521739" y="10" fill="rgba(127, 127, 127, .8)">5</text>
                                 <text transform="translate(10,6)" x="107.82608695652173" y="67" fill="rgba(127, 127, 127, .8)">2</text>
@@ -905,10 +905,10 @@ Completed Diploma in the same @ 2024</div>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,105L41,45.625L72,105L103,105L134,10L165,69.375L196,81.25" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,81.25L165,69.375L134,10L103,105L72,105L41,45.625L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,93.125L41,45.625L72,105L103,105L134,10L165,69.375L196,81.25" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,81.25L165,69.375L134,10L103,105L72,105L41,45.625L10,93.125Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="93.125" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="45.625" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc"/>
@@ -917,7 +917,7 @@ Completed Diploma in the same @ 2024</div>
                                     <circle transform="translate(10,10)" cx="196" cy="81.25" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                    <text transform="translate(10,6)" x="10" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
                                     <text transform="translate(10,6)" x="41" y="45.625" fill="rgba(127, 127, 127, .8)">5</text>
                                     <text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)"/>
                                     <text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -933,25 +933,25 @@ Completed Diploma in the same @ 2024</div>
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#427819" d="M0.5,-79.998A80,80,0,0,1,5.34,-79.822L0,0Z">
-                                        <title>Makefile
-0.45</title>
-                                    </path>
-                                    <path fill="#e34c26" d="M6.337,-79.749A80,80,0,1,1,-35.342,-71.77L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-39.799,-69.398L0,0Z">
                                         <title>HTML
-42.71</title>
+42.44</title>
                                     </path>
-                                    <path fill="#663399" d="M-34.442,-72.206A80,80,0,0,1,-30.707,-73.872L0,0Z">
+                                    <path fill="#663399" d="M-38.928,-69.89A80,80,0,0,1,-35.179,-71.85L0,0Z">
                                         <title>CSS
-0.38</title>
+0.39</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-29.781,-74.25A80,80,0,0,1,-8.542,-79.543L0,0Z">
+                                    <path fill="#f1e05a" d="M-34.278,-72.284A80,80,0,0,1,-13.121,-78.917L0,0Z">
                                         <title>JavaScript
-2.04</title>
+2.05</title>
                                     </path>
-                                    <path fill="#555555" d="M-7.548,-79.643A80,80,0,0,1,-2.5,-79.961L0,0Z">
+                                    <path fill="#427819" d="M-12.133,-79.075A80,80,0,0,1,-7.936,-79.605L0,0Z">
+                                        <title>Makefile
+0.39</title>
+                                    </path>
+                                    <path fill="#555555" d="M-6.94,-79.698A80,80,0,0,1,-2.5,-79.961L0,0Z">
                                         <title>C
-0.47</title>
+0.41</title>
                                     </path>
                                     <path fill="#178600" d="M-1.5,-79.986L0,0Z">
                                         <title>C#
@@ -963,27 +963,27 @@ Completed Diploma in the same @ 2024</div>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(1.4605583741247234,-39.97332572148299)">
-                                        <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
-                                    </text>
-                                    <text transform="translate(7.520648056299893,39.28663707691551)">
+                                    <text transform="translate(10.175889787829544,38.68399238736801)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">42.71</tspan>
+                                        <tspan x="0" y="1.1em">42.44</tspan>
                                     </text>
-                                    <text transform="translate(-16.29269996240231,-36.53146490267172)">
+                                    <text transform="translate(-18.533245236508872,-35.44740922836846)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-9.671920743088,-38.81306415550599)">
+                                    <text transform="translate(-11.965132987817807,-38.16851572413884)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">2.04</tspan>
+                                        <tspan x="0" y="1.1em">2.05</tspan>
                                     </text>
-                                    <text transform="translate(-2.5130439923318306,-39.92097957080468)">
+                                    <text transform="translate(-5.019038306307676,-39.68386642553641)">
+                                        <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
+                                    </text>
+                                    <text transform="translate(-2.360812430081224,-39.930271282198596)">
                                         <tspan x="0" y="0em" font-weight="bold">C</tspan>
                                     </text>
-                                    <text transform="translate(-0.7499560554600054,-39.99296895599124)">
+                                    <text transform="translate(-0.7499560554598634,-39.99296895599124)">
                                         <tspan x="0" y="0em" font-weight="bold">C#</tspan>
                                     </text>
-                                    <text transform="translate(-0.24999837239900538,-39.99921875254313)">
+                                    <text transform="translate(-0.24999837239893433,-39.99921875254313)">
                                         <tspan x="0" y="0em" font-weight="bold">GLSL</tspan>
                                     </text>
                                 </g>
@@ -1001,6 +1001,102 @@ Completed Diploma in the same @ 2024</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 194 commits in
+                                        <span class="repo">Soham-Metha/virex</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">soham</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f9dac9c</div>
+                                        <div class="message">05/07/2025 : 23:36:31</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff21c77</div>
+                                        <div class="message">05/07/2025 : 23:36:09</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1380c96</div>
+                                        <div class="message">05/07/2025 : 23:36:09</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ff8559</div>
+                                        <div class="message">05/07/2025 : 23:35:22</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b19f58</div>
+                                        <div class="message">05/07/2025 : 23:35:19</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f343ff3</div>
+                                        <div class="message">05/07/2025 : 23:35:18</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c0f724</div>
+                                        <div class="message">05/07/2025 : 23:35:17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d92d170</div>
+                                        <div class="message">05/07/2025 : 23:34:52</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24858e6</div>
+                                        <div class="message">05/07/2025 : 23:34:42</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfcdbaa</div>
+                                        <div class="message">05/07/2025 : 23:34:37</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5976202</div>
+                                        <div class="message">05/07/2025 : 23:34:37</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41e8475</div>
+                                        <div class="message">05/07/2025 : 23:34:25</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b29a8c4</div>
+                                        <div class="message">05/07/2025 : 23:34:24</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e490288</div>
+                                        <div class="message">05/07/2025 : 23:31:27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#118c1c1</div>
+                                        <div class="message">05/07/2025 : 23:31:26</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3801a26</div>
+                                        <div class="message">05/07/2025 : 23:29:35</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67dc3b0</div>
+                                        <div class="message">05/07/2025 : 23:29:34</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe54620</div>
+                                        <div class="message">05/07/2025 : 23:29:34</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e05d44</div>
+                                        <div class="message">05/07/2025 : 23:27:16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#341b747</div>
+                                        <div class="message">05/07/2025 : 22:13:35</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1157,102 +1253,6 @@ and fix a typo</div>
                                 <div class="details">
                                     <div> in <span class="repo">Soham-Metha/virex</span></div>
                                     <div>240 files changed <span class="code">++13366 --1819</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 214 commits in
-                                        <span class="repo">Soham-Metha/virex</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">soham</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#37a129f</div>
-                                        <div class="message">03/07/2025 : 21:59:53</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61c24af</div>
-                                        <div class="message">03/07/2025 : 21:57:59</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27affa4</div>
-                                        <div class="message">03/07/2025 : 21:56:35</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f19f2ee</div>
-                                        <div class="message">03/07/2025 : 21:56:30</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0164323</div>
-                                        <div class="message">03/07/2025 : 21:56:04</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e982061</div>
-                                        <div class="message">03/07/2025 : 21:55:30</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d970b20</div>
-                                        <div class="message">03/07/2025 : 21:55:05</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bc4b66</div>
-                                        <div class="message">03/07/2025 : 21:55:00</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c759aec</div>
-                                        <div class="message">03/07/2025 : 21:53:51</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31a9a12</div>
-                                        <div class="message">03/07/2025 : 21:53:31</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#698c608</div>
-                                        <div class="message">03/07/2025 : 21:49:57</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bde2fbd</div>
-                                        <div class="message">03/07/2025 : 21:49:52</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6e64b5</div>
-                                        <div class="message">03/07/2025 : 21:47:07</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9b768f</div>
-                                        <div class="message">03/07/2025 : 21:47:02</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d340ef6</div>
-                                        <div class="message">03/07/2025 : 21:44:07</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be7fdf3</div>
-                                        <div class="message">03/07/2025 : 21:43:55</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b94725</div>
-                                        <div class="message">03/07/2025 : 21:40:58</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8680a3</div>
-                                        <div class="message">03/07/2025 : 21:40:24</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5dce202</div>
-                                        <div class="message">03/07/2025 : 21:38:23</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a7c2ed</div>
-                                        <div class="message">03/07/2025 : 21:10:08</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
