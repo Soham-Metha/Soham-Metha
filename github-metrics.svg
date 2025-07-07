@@ -92,20 +92,20 @@ h1, h2, h3 {
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#36eeb1" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#56d364" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#36eeb1" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#56d364" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#36eeb1" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#39c5cf" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#39c5cf" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#39c5cf" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#56d364" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -253,7 +253,7 @@ Completed Diploma in the same @ 2024</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    462k added, 29.9k removed
+                                    539k added, 83.1k removed
                                 </div>
                             </section>
                             <section>
@@ -450,6 +450,12 @@ Completed Diploma in the same @ 2024</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">Soham-Metha/virex</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">Team-Binary-Brains/virex-core</span>
                         </div>
                         <div class="field">
@@ -470,12 +476,6 @@ Completed Diploma in the same @ 2024</div>
                             </svg>
                             <span class="diff-handle">GameDevUtopia/EventGame</span>
                         </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">Team-Binary-Brains/virex-vs</span>
-                        </div>
                     </section>
                     <section>
                         <div class="field">
@@ -487,6 +487,18 @@ Completed Diploma in the same @ 2024</div>
                             <div class="diff-stats">
                                 <span class="added">  +395k</span>
                                 <span class="deleted">     -3</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +76.7k</span>
+                                <span class="deleted"> -53.2k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -535,18 +547,6 @@ Completed Diploma in the same @ 2024</div>
                             <div class="diff-stats">
                                 <span class="added"> +5.12k</span>
                                 <span class="deleted">     -2</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +4.48k</span>
-                                <span class="deleted">    -99</span>
                             </div>
                             <span> </span>
                         </div>
@@ -661,7 +661,7 @@ Completed Diploma in the same @ 2024</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 30 commits)</small>
+                    <small class="h-details">(computed from last 27 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -790,16 +790,16 @@ Completed Diploma in the same @ 2024</div>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,97.083L49.13,89.167L68.696,10L88.261,73.333L107.826,89.167L127.391,97.083L146.957,97.083L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,89.167L323.043,105L342.609,89.167L362.174,105L381.739,105L401.304,105L420.87,81.25L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,81.25L401.304,105L381.739,105L362.174,105L342.609,89.167L323.043,105L303.478,89.167L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,97.083L127.391,97.083L107.826,89.167L88.261,73.333L68.696,10L49.13,89.167L29.565,97.083L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,97.083L49.13,89.167L68.696,10L88.261,89.167L107.826,89.167L127.391,105L146.957,97.083L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,89.167L323.043,105L342.609,89.167L362.174,105L381.739,105L401.304,105L420.87,81.25L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,81.25L401.304,105L381.739,105L362.174,105L342.609,89.167L323.043,105L303.478,89.167L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,97.083L127.391,105L107.826,89.167L88.261,89.167L68.696,10L49.13,89.167L29.565,97.083L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="97.08333333333333" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="89.16666666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="73.33333333333334" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="89.16666666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="107.82608695652173" cy="89.16666666666667" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="97.08333333333333" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="146.95652173913044" cy="97.08333333333333" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/>
@@ -823,9 +823,9 @@ Completed Diploma in the same @ 2024</div>
                                 <text transform="translate(10,6)" x="29.565217391304348" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="49.130434782608695" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="10" fill="rgba(127, 127, 127, .8)">12</text>
-                                <text transform="translate(10,6)" x="88.26086956521739" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="88.26086956521739" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="107.82608695652173" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="127.3913043478261" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="146.95652173913044" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -884,15 +884,11 @@ Completed Diploma in the same @ 2024</div>
                                     </g>
                                 </g>
                                 <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <g class="tick" opacity="1" transform="translate(0,16.4375)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">15</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,46.125)">
+                                    <g class="tick" opacity="1" transform="translate(0,32.42307692307692)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">10</text>
                                     </g>
-                                    <g class="tick" opacity="1" transform="translate(0,75.8125)">
+                                    <g class="tick" opacity="1" transform="translate(0,68.96153846153845)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">5</text>
                                     </g>
@@ -901,25 +897,25 @@ Completed Diploma in the same @ 2024</div>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,99.063L41,10L72,105L103,105L134,57.5L165,87.188L196,93.125" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,93.125L165,87.188L134,57.5L103,105L72,105L41,10L10,99.063Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,97.692L41,10L72,105L103,105L134,46.538L165,83.077L196,90.385" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,90.385L165,83.077L134,46.538L103,105L72,105L41,10L10,97.692Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="99.0625" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="134" cy="57.5" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="87.1875" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="93.125" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="134" cy="46.53846153846153" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="83.07692307692307" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="90.38461538461537" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="99.0625" fill="rgba(127, 127, 127, .8)">1</text>
-                                    <text transform="translate(10,6)" x="41" y="10" fill="rgba(127, 127, 127, .8)">16</text>
+                                    <text transform="translate(10,6)" x="10" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">1</text>
+                                    <text transform="translate(10,6)" x="41" y="10" fill="rgba(127, 127, 127, .8)">13</text>
                                     <text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)"/>
                                     <text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                    <text transform="translate(10,6)" x="134" y="57.5" fill="rgba(127, 127, 127, .8)">8</text>
-                                    <text transform="translate(10,6)" x="165" y="87.1875" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="196" y="93.125" fill="rgba(127, 127, 127, .8)">2</text>
+                                    <text transform="translate(10,6)" x="134" y="46.53846153846153" fill="rgba(127, 127, 127, .8)">8</text>
+                                    <text transform="translate(10,6)" x="165" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">3</text>
+                                    <text transform="translate(10,6)" x="196" y="90.38461538461537" fill="rgba(127, 127, 127, .8)">2</text>
                                 </g>
                             </svg>
                         </div>
@@ -929,23 +925,23 @@ Completed Diploma in the same @ 2024</div>
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#427819" d="M0.5,-79.998A80,80,0,0,1,2.654,-79.956L0,0Z">
+                                    <path fill="#427819" d="M0.5,-79.998A80,80,0,0,1,2.347,-79.966L0,0Z">
                                         <title>Makefile
-0.21</title>
+0.18</title>
                                     </path>
-                                    <path fill="#e34c26" d="M3.653,-79.917A80,80,0,1,1,-33.006,-72.874L0,0Z">
+                                    <path fill="#e34c26" d="M3.346,-79.93A80,80,0,1,1,-33.012,-72.871L0,0Z">
                                         <title>HTML
-45.32</title>
+45.34</title>
                                     </path>
-                                    <path fill="#663399" d="M-32.093,-73.281A80,80,0,0,1,-28.293,-74.83L0,0Z">
+                                    <path fill="#663399" d="M-32.098,-73.278A80,80,0,0,1,-28.298,-74.828L0,0Z">
                                         <title>CSS
 0.40</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-27.355,-75.178A80,80,0,0,1,-6.264,-79.754L0,0Z">
+                                    <path fill="#f1e05a" d="M-27.36,-75.176A80,80,0,0,1,-6.264,-79.754L0,0Z">
                                         <title>JavaScript
 2.11</title>
                                     </path>
-                                    <path fill="#555555" d="M-5.266,-79.826A80,80,0,0,1,-2.5,-79.961L0,0Z">
+                                    <path fill="#555555" d="M-5.267,-79.826A80,80,0,0,1,-2.5,-79.961L0,0Z">
                                         <title>C
 0.27</title>
                                     </path>
@@ -959,24 +955,24 @@ Completed Diploma in the same @ 2024</div>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(0.788592630489202,-39.992225765305164)">
+                                    <text transform="translate(0.7117526447041229,-39.99366710083931)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(7.546473285193079,39.2816845483473)">
+                                    <text transform="translate(7.623381961109245,39.26683139081933)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">45.32</tspan>
+                                        <tspan x="0" y="1.1em">45.34</tspan>
                                     </text>
-                                    <text transform="translate(-15.101336952613671,-37.03983831287098)">
+                                    <text transform="translate(-15.103874346595633,-37.03880370263395)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-8.482276821390705,-39.09029265591776)">
+                                    <text transform="translate(-8.483652092516408,-39.08999420789343)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                         <tspan x="0" y="1.1em">2.11</tspan>
                                     </text>
-                                    <text transform="translate(-1.9417784660774728,-39.95284090510558)">
+                                    <text transform="translate(-1.9419216804416906,-39.95283394437784)">
                                         <tspan x="0" y="0em" font-weight="bold">C</tspan>
                                     </text>
-                                    <text transform="translate(-0.7499560554599345,-39.99296895599124)">
+                                    <text transform="translate(-0.7499560554600054,-39.99296895599124)">
                                         <tspan x="0" y="0em" font-weight="bold">C#</tspan>
                                     </text>
                                     <text transform="translate(-0.24999837239900538,-39.99921875254313)">
@@ -1133,7 +1129,7 @@ Completed Diploma in the same @ 2024</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.46
+                            Average per day at ~1.48
                         </div>
                     </section>
                 </div>
@@ -1529,43 +1525,6 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(18.7, 11)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-1.7, 6.357142857142858)">
                                 <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
@@ -1597,7 +1556,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1634,7 +1593,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(22.099999999999998, 13)">
+                        <g transform="translate(20.4, 12)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1656,9 +1615,46 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.892857142857142)">
-                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
-                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
+                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(22.099999999999998, 13)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1719,10 +1715,10 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.785714285714286)">
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1756,10 +1752,10 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.785714285714286)">
-                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1988,10 +1984,10 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.892857142857142)">
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2015,47 +2011,10 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 9.892857142857142)">
+                            <g transform="translate(-3.4, 7.892857142857142)">
                                 <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
                                 <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(40.8, 24)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 7.892857142857142)">
-                                <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2073,12 +2032,12 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.892857142857142)">
-                                <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                         </g>
-                        <g transform="translate(42.5, 25)">
+                        <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2115,7 +2074,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(44.199999999999996, 26)">
+                        <g transform="translate(42.5, 25)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2152,7 +2111,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(45.9, 27)">
+                        <g transform="translate(44.199999999999996, 26)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2189,26 +2148,26 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.071428571428571 1.7,3.071428571428571 z"/>
                             </g>
                         </g>
-                        <g transform="translate(47.6, 28)">
+                        <g transform="translate(45.9, 27)">
                             <g transform="translate(0, 5.785714285714286)">
                                 <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
                                 <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.357142857142858)">
-                                <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
+                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.607142857142857)">
-                                <path fill="#36eeb1" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#36eeb1" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.392857142857143 0,2.392857142857143 z"/>
-                                <path fill="#36eeb1" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.392857142857143 1.7,3.392857142857143 z"/>
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.392857142857143 0,2.392857142857143 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.392857142857143 1.7,3.392857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.357142857142858)">
-                                <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
-                                <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
+                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2226,7 +2185,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(49.3, 29)">
+                        <g transform="translate(47.6, 28)">
                             <g transform="translate(0, 5.785714285714286)">
                                 <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
@@ -2263,7 +2222,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                         </g>
-                        <g transform="translate(51, 30)">
+                        <g transform="translate(49.3, 29)">
                             <g transform="translate(0, 5.357142857142858)">
                                 <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
@@ -2300,7 +2259,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                         </g>
-                        <g transform="translate(52.699999999999996, 31)">
+                        <g transform="translate(51, 30)">
                             <g transform="translate(0, 4.178571428571429)">
                                 <path fill="#36eeb1" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#36eeb1" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.821428571428571 0,2.821428571428571 z"/>
@@ -2320,6 +2279,43 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(52.699999999999996, 31)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2368,10 +2364,10 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.571428571428571)">
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
                         <g transform="translate(56.1, 33)">
@@ -2405,10 +2401,10 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.571428571428571)">
-                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                         <g transform="translate(57.8, 34)">
@@ -2548,43 +2544,6 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(64.6, 38)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-8.5, 8.642857142857142)">
                                 <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.357142857142858 0,3.357142857142857 z"/>
@@ -2596,7 +2555,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.892857142857143 1.7,4.892857142857142 z"/>
                             </g>
                         </g>
-                        <g transform="translate(66.3, 39)">
+                        <g transform="translate(64.6, 38)">
                             <g transform="translate(0, 4.928571428571429)">
                                 <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.071428571428571 0,2.071428571428571 z"/>
@@ -2633,21 +2592,21 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(68, 40)">
+                        <g transform="translate(66.3, 39)">
                             <g transform="translate(0, 3.75)">
-                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.392857142857143)">
-                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.607142857142857 0,2.607142857142857 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.607142857142857 1.7,3.607142857142857 z"/>
+                                <path fill="#36eeb1" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#36eeb1" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.607142857142857 0,2.607142857142857 z"/>
+                                <path fill="#36eeb1" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.607142857142857 1.7,3.607142857142857 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.071428571428571)">
-                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.928571428571429 0,2.928571428571429 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.928571428571429 1.7,3.928571428571429 z"/>
+                                <path fill="#36eeb1" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#36eeb1" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.928571428571429 0,2.928571428571429 z"/>
+                                <path fill="#36eeb1" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.928571428571429 1.7,3.928571428571429 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2670,7 +2629,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(69.7, 41)">
+                        <g transform="translate(68, 40)">
                             <g transform="translate(0, 0)">
                                 <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
@@ -2707,7 +2666,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(71.39999999999999, 42)">
+                        <g transform="translate(69.7, 41)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2744,7 +2703,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(73.1, 43)">
+                        <g transform="translate(71.39999999999999, 42)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2781,7 +2740,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
                         </g>
-                        <g transform="translate(74.8, 44)">
+                        <g transform="translate(73.1, 43)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2803,9 +2762,9 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.785714285714285)">
-                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#ff7b72" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ff7b72" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
+                                <path fill="#ff7b72" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2818,7 +2777,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(76.5, 45)">
+                        <g transform="translate(74.8, 44)">
                             <g transform="translate(0, 5.357142857142858)">
                                 <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
@@ -2855,7 +2814,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(78.2, 46)">
+                        <g transform="translate(76.5, 45)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2892,7 +2851,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(79.89999999999999, 47)">
+                        <g transform="translate(78.2, 46)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2929,16 +2888,16 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(81.6, 48)">
+                        <g transform="translate(79.89999999999999, 47)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.785714285714286)">
-                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2946,9 +2905,46 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.785714285714285)">
-                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
+                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(81.6, 48)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -3009,43 +3005,6 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(86.7, 51)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-1.7, 6.464285714285714)">
                                 <path fill="#36eeb1" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#36eeb1" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
@@ -3077,7 +3036,7 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#36eeb1" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(88.39999999999999, 52)">
+                        <g transform="translate(86.7, 51)">
                             <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -3099,16 +3058,23 @@ Completed Diploma in the same @ 2024</div>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.678571428571429)">
-                                <path fill="#56d364" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#56d364" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
-                                <path fill="#56d364" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
+                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.785714285714285)">
-                                <path fill="#36eeb1" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#36eeb1" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#36eeb1" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#39c5cf" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
+                                <path fill="#39c5cf" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
+                                <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(88.39999999999999, 52)">
+                            <g transform="translate(0, 6)">
                                 <path fill="#0d1117" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#0d1117" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
