@@ -253,7 +253,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    542k added, 85.8k removed
+                                    541k added, 85.4k removed
                                 </div>
                             </section>
                             <section>
@@ -661,7 +661,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 37 commits)</small>
+                    <small class="h-details">(computed from last 35 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -790,8 +790,8 @@ Completed Diploma in Computer Technology @ 2024</div>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,98.214L49.13,84.643L68.696,10L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,91.429L323.043,105L342.609,91.429L362.174,84.643L381.739,105L401.304,77.857L420.87,84.643L440.435,71.071L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,71.071L420.87,84.643L401.304,77.857L381.739,105L362.174,84.643L342.609,91.429L323.043,105L303.478,91.429L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,10L49.13,84.643L29.565,98.214L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,98.214L49.13,84.643L68.696,10L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,91.429L323.043,105L342.609,105L362.174,84.643L381.739,105L401.304,77.857L420.87,84.643L440.435,71.071L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,71.071L420.87,84.643L401.304,77.857L381.739,105L362.174,84.643L342.609,105L323.043,105L303.478,91.429L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,10L49.13,84.643L29.565,98.214L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="98.21428571428571" r="2" fill="#106cbc"/>
@@ -810,7 +810,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="91.42857142857143" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="84.64285714285714" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="401.30434782608694" cy="77.85714285714286" r="2" fill="#106cbc"/>
@@ -836,7 +836,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="342.60869565217394" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="84.64285714285714" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="401.30434782608694" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">4</text>
@@ -905,8 +905,8 @@ Completed Diploma in Computer Technology @ 2024</div>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,100.476L41,10L72,105L103,73.333L134,91.429L165,91.429L196,95.952" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,95.952L165,91.429L134,91.429L103,73.333L72,105L41,10L10,100.476Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,100.476L41,10L72,105L103,73.333L134,91.429L165,91.429L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,91.429L134,91.429L103,73.333L72,105L41,10L10,100.476Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="100.47619047619048" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="10" r="2" fill="#106cbc"/>
@@ -914,7 +914,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                                     <circle transform="translate(10,10)" cx="103" cy="73.33333333333334" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="91.42857142857143" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="95.95238095238095" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="105" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="100.47619047619048" fill="rgba(127, 127, 127, .8)">1</text>
@@ -923,7 +923,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                                     <text transform="translate(10,6)" x="103" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">7</text>
                                     <text transform="translate(10,6)" x="134" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">3</text>
                                     <text transform="translate(10,6)" x="165" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="196" y="95.95238095238095" fill="rgba(127, 127, 127, .8)">2</text>
+                                    <text transform="translate(10,6)" x="196" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 </g>
                             </svg>
                         </div>
@@ -933,58 +933,44 @@ Completed Diploma in Computer Technology @ 2024</div>
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-43.887,-66.888L0,0Z">
+                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-42.256,-67.93L0,0Z">
                                         <title>HTML
-43.57</title>
+45.40</title>
                                     </path>
-                                    <path fill="#555555" d="M-43.047,-67.431A80,80,0,0,1,-31.503,-73.536L0,0Z">
+                                    <path fill="#555555" d="M-41.403,-68.453A80,80,0,0,1,-29.687,-74.288L0,0Z">
                                         <title>C
-1.25</title>
+1.30</title>
                                     </path>
-                                    <path fill="#663399" d="M-30.581,-73.924A80,80,0,0,1,-26.872,-75.352L0,0Z">
+                                    <path fill="#663399" d="M-28.756,-74.653A80,80,0,0,1,-24.958,-76.007L0,0Z">
                                         <title>CSS
-0.38</title>
+0.40</title>
                                     </path>
-                                    <path fill="#427819" d="M-25.928,-75.682A80,80,0,0,1,-24.539,-76.144L0,0Z">
+                                    <path fill="#427819" d="M-24.006,-76.313A80,80,0,0,1,-22.656,-76.725L0,0Z">
                                         <title>Makefile
 0.14</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-23.585,-76.444A80,80,0,0,1,-2.5,-79.961L0,0Z">
+                                    <path fill="#f1e05a" d="M-21.695,-77.002A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>JavaScript
-2.05</title>
-                                    </path>
-                                    <path fill="#178600" d="M-1.5,-79.986L0,0Z">
-                                        <title>C#
-0.00</title>
-                                    </path>
-                                    <path fill="#5686a5" d="M-0.5,-79.998L0,0Z">
-                                        <title>GLSL
-0.00</title>
+2.13</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(11.331106257529004,38.36151757921716)">
+                                    <text transform="translate(10.866213164883685,38.49578433355149)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">43.57</tspan>
+                                        <tspan x="0" y="1.1em">45.40</tspan>
                                     </text>
-                                    <text transform="translate(-18.699932983978517,-35.35975829095432)">
+                                    <text transform="translate(-17.832236573952216,-35.805185920067515)">
                                         <tspan x="0" y="0em" font-weight="bold">C</tspan>
                                     </text>
-                                    <text transform="translate(-14.367868398238365,-37.33047491917165)">
+                                    <text transform="translate(-13.43271016448907,-37.677079207879586)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-12.617401973206057,-37.95788676212805)">
+                                    <text transform="translate(-11.66605857959935,-38.2609863597027)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(-6.58022150581865,-39.45504638109505)">
+                                    <text transform="translate(-5.599207643361959,-39.60617216756142)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">2.05</tspan>
-                                    </text>
-                                    <text transform="translate(-0.7499560554599345,-39.99296895599124)">
-                                        <tspan x="0" y="0em" font-weight="bold">C#</tspan>
-                                    </text>
-                                    <text transform="translate(-0.24999837239900538,-39.99921875254313)">
-                                        <tspan x="0" y="0em" font-weight="bold">GLSL</tspan>
+                                        <tspan x="0" y="1.1em">2.13</tspan>
                                     </text>
                                 </g>
                             </svg>
