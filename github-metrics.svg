@@ -253,7 +253,7 @@ Completed Diploma in Computer Technology @ 2024</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    543k added, 86k removed
+                                    544k added, 86.1k removed
                                 </div>
                             </section>
                             <section>
@@ -937,21 +937,21 @@ Completed Diploma in Computer Technology @ 2024</div>
                                         <title>Makefile
 0.15</title>
                                     </path>
-                                    <path fill="#555555" d="M3.248,-79.934A80,80,0,0,1,70.278,38.222L0,0Z">
+                                    <path fill="#555555" d="M3.248,-79.934A80,80,0,0,1,70.334,38.12L0,0Z">
                                         <title>C
-13.92</title>
+13.91</title>
                                     </path>
-                                    <path fill="#f34b7d" d="M69.795,39.098A80,80,0,0,1,64.637,47.139L0,0Z">
+                                    <path fill="#f34b7d" d="M69.852,38.996A80,80,0,0,1,64.706,47.044L0,0Z">
                                         <title>C++
 0.82</title>
                                     </path>
-                                    <path fill="#b07219" d="M64.043,47.943A80,80,0,0,1,58.986,54.043L0,0Z">
+                                    <path fill="#b07219" d="M64.113,47.85A80,80,0,0,1,59.065,53.957L0,0Z">
                                         <title>Java
 0.68</title>
                                     </path>
-                                    <path fill="#e34c26" d="M58.306,54.776A80,80,0,1,1,-20.568,-77.311L0,0Z">
+                                    <path fill="#e34c26" d="M58.386,54.691A80,80,0,1,1,-20.568,-77.311L0,0Z">
                                         <title>HTML
-25.38</title>
+25.39</title>
                                     </path>
                                     <path fill="#663399" d="M-19.6,-77.562A80,80,0,0,1,-16.762,-78.224L0,0Z">
                                         <title>CSS
@@ -966,19 +966,19 @@ Completed Diploma in Computer Technology @ 2024</div>
                                     <text transform="translate(0.6871029858844355,-39.99409818319184)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(34.791355436507516,-19.737314581538154)">
+                                    <text transform="translate(34.77696636052919,-19.76265697619177)">
                                         <tspan x="0" y="0em" font-weight="bold">C</tspan>
-                                        <tspan x="0" y="1.1em">13.92</tspan>
+                                        <tspan x="0" y="1.1em">13.91</tspan>
                                     </text>
-                                    <text transform="translate(33.668110575744,21.597646405557136)">
+                                    <text transform="translate(33.69954524118726,21.54856492987812)">
                                         <tspan x="0" y="0em" font-weight="bold">C++</tspan>
                                     </text>
-                                    <text transform="translate(30.794991472859966,25.527798576972557)">
+                                    <text transform="translate(30.83215589994994,25.482899414336316)">
                                         <tspan x="0" y="0em" font-weight="bold">Java</tspan>
                                     </text>
-                                    <text transform="translate(-34.343043484400326,20.507446555546313)">
+                                    <text transform="translate(-34.32809343910073,20.532462123095932)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">25.38</tspan>
+                                        <tspan x="0" y="1.1em">25.39</tspan>
                                     </text>
                                     <text transform="translate(-9.092000280458773,-38.95299129592152)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
