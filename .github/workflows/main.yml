@@ -21,8 +21,8 @@ jobs:
                   committer_message: "update metrics"
                   config_output: svg
                   config_display: large
-                  config_padding: 0, +40%
-                  config_order: base.header, base.repositories, lines, followup, habits, activity, isocalendar
+                  # config_padding: 0, +40%
+                  config_order: base.header, lines, followup, habits
 
                   extras_css: |
                       .field svg {
@@ -100,14 +100,14 @@ jobs:
                       document.querySelectorAll(` [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
 
                   # Basic sections
-                  base: header, repositories
+                  base: header
                   template: classic
 
                   # Plugins
                   plugin_leetcode: no
                   plugin_leetcode_sections: solved, skills
 
-                  plugin_isocalendar: yes
+                  plugin_isocalendar: no
                   plugin_isocalendar_duration: full-year
 
                   plugin_languages: no
@@ -115,10 +115,10 @@ jobs:
                   plugin_introduction: no
 
                   plugin_habits: yes
-                  plugin_habits_charts: yes
+                  plugin_habits_charts: no
                   plugin_habits_charts_type: "graph"
 
-                  #plugin_achievements: yes
+                  plugin_achievements: yes
 
                   plugin_followup: yes
                   plugin_followup_sections: user
@@ -128,10 +128,10 @@ jobs:
                   plugin_lines_repositories_limit: 6
                   plugin_lines_delay: 30
 
-                  plugin_activity: yes
+                  plugin_activity: no
                   plugin_languages_ignored: Mathematica, ShaderLab, C#
 
                   plugin_repositories: no
                   plugin_repositories_affiliations: owner, collaborator
                   plugin_repositories_featured: Soham-Metha/virex
-                  repositories_skipped: Maxcastel10/Picto-game, Soham-Metha/Soham-Metha, Soham-Metha/Explorer
+                  repositories_skipped: Maxcastel10/Picto-game, Soham-Metha/Soham-Metha, Soham-Metha/Explorer, Soham-Metha/Leetcode-solutions
