@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://img.libquotes.com/pic-quotes/v2/richard-feynman-quote-lbb9z2p.jpg" alt="Richard Fenyman" />
+  <img src="https://pbs.twimg.com/media/DeC-SV5W4AEDegt.png" alt="Richard Fenyman" />
 </p>
+
+<img src="https://github.com/Soham-Metha/Soham-Metha/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
 ### 💬 Quotes
 
@@ -33,6 +35,13 @@
 <!--img height="24%" src="https://github-contributor-stats.vercel.app/api?username=Soham-Metha&limit=5&theme=radical&combine_all_yearly_contributions=true"!-->
 </p>
 
+### 🚀 Featured Project
+
+<a href="https://github.com/Soham-Metha/virex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham-Metha&repo=virex&theme=tokyonight&show_owner=true" width="400"/>
+</a>
+<!--img src="https://repobeats.axiom.co/api/embed/f97cd2b4327090163e02c14473729db0cc3051c6.svg" alt="Repobeats analytics image" /!-->
+
 ### 🧠 LeetCode × GitRoll
 
 <p align="center">
@@ -63,15 +72,7 @@
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="60"/>
 </p>
 
-### 🚀 Featured Project
-
-<a href="https://github.com/Soham-Metha/virex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham-Metha&repo=virex&theme=tokyonight&show_owner=true" width="400"/>
-</a>
-<!--img src="https://repobeats.axiom.co/api/embed/f97cd2b4327090163e02c14473729db0cc3051c6.svg" alt="Repobeats analytics image" /!-->
-
-<img src="https://github.com/Soham-Metha/Soham-Metha/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=Soham-Metha&abbreviated=true&style=for-the-badge" alt="Profile Views" />
 
 ![View Count](https://hit.yhype.me/github/profile?account_id=136834568)

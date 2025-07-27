@@ -116,9 +116,9 @@ jobs:
 
                   plugin_habits: yes
                   plugin_habits_charts: no
-                  plugin_habits_charts_type: "graph"
+                  # plugin_habits_charts_type: "graph"
 
-                  plugin_achievements: yes
+                  plugin_achievements: no
 
                   plugin_followup: yes
                   plugin_followup_sections: user
