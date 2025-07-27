@@ -1,5 +1,5 @@
 <p align="center">
-  <img arc="https://img.libquotes.com/pic-quotes/v2/richard-feynman-quote-lbb9z2p.jpg" alt="Richard Fenyman" />
+  <img src="https://img.libquotes.com/pic-quotes/v2/richard-feynman-quote-lbb9z2p.jpg" alt="Richard Fenyman" />
 </p>
 
 ### 💬 Quotes
@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
 
 ---
 
@@ -20,12 +19,11 @@
 <p align="center">
 </p>
 
-
 <p align="center">
 <!--img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Metha&theme=radical"!-->
   
-<img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Soham's GitHub Stats" />
-<img height="50%" src="https://streak-stats.demolab.com?user=Soham-Metha&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Soham's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Soham-Metha&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
 
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Soham-Metha&column=8&row=1&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
@@ -34,7 +32,6 @@
 
 <!--img height="24%" src="https://github-contributor-stats.vercel.app/api?username=Soham-Metha&limit=5&theme=radical&combine_all_yearly_contributions=true"!-->
 </p>
-
 
 ### 🧠 LeetCode × GitRoll
 
@@ -47,23 +44,26 @@
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="60" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="60"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60" /><br>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="60"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="60"/>
 </p>
 
 ### 🚀 Featured Project
-
 
 <a href="https://github.com/Soham-Metha/virex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham-Metha&repo=virex&theme=tokyonight&show_owner=true" width="400"/>
