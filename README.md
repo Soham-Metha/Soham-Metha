@@ -4,9 +4,7 @@
   <img src="https://pbs.twimg.com/media/DeC-SV5W4AEDegt.png" alt="Richard Fenyman" />
 </p>
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" style="transform: scale(1.25); transform-origin: top left;" />
-
-<br><br>
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
 
 ---
 
@@ -34,9 +32,9 @@
 <img width="49%" src="https://streak-stats.demolab.com?user=Soham-Metha&theme=tokyonight&mode=weekly" alt="GitHub Streak" /><br>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Soham-Metha&column=8&row=1&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soham-Metha&theme=tokyonight&utcOffset=0.0">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soham-Metha&theme=tokyonight">
+</p>
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soham-Metha&theme=tokyonight&utcOffset=0.0"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soham-Metha&theme=tokyonight">
 
 <!--img height="24%" src="https://github-contributor-stats.vercel.app/api?username=Soham-Metha&limit=5&theme=radical&combine_all_yearly_contributions=true"!-->
 </p>
