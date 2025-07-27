@@ -25,9 +25,9 @@
 <!--img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Metha&theme=radical"!-->
   
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Soham's GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Soham-Metha&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Soham-Metha&theme=tokyonight&mode=weekly" alt="GitHub Streak" /><br>
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Soham-Metha&column=8&row=1&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Soham-Metha&column=8&row=1&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soham-Metha&theme=tokyonight&utcOffset=0.0">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soham-Metha&theme=tokyonight">
