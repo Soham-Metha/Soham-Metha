@@ -131,7 +131,7 @@ h1, h2, h3 {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Soham-Metha/AntHill</span>
+                            <span class="diff-handle">Soham-Metha/DSAL-SPPU</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -161,7 +161,7 @@ h1, h2, h3 {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Soham-Metha/Discord-PyBot</span>
+                            <span class="diff-handle">Soham-Metha/codeForces</span>
                         </div>
                     </section>
                     <section>
@@ -169,11 +169,11 @@ h1, h2, h3 {
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +4.13k</span>
-                                <span class="deleted">   -275</span>
+                                <span class="added"> +6.01k</span>
+                                <span class="deleted"> -2.14k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -232,8 +232,8 @@ h1, h2, h3 {
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +930</span>
-                                <span class="deleted">    -15</span>
+                                <span class="added">   +914</span>
+                                <span class="deleted">    -27</span>
                             </div>
                             <span> </span>
                         </div>
