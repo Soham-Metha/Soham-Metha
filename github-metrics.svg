@@ -105,7 +105,7 @@ h1, h2, h3 {
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#0d1117" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#39c5cf" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
