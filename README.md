@@ -46,38 +46,48 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
-### Latest Metrics
-
+<details>
+  <summary>Latest Metrics</summary>
 <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</details>
 
-### Leetcode
 
-<img src="https://leetcard.jacoblin.cool/Soham-Metha?theme=catppuccinMocha&font=Basic&ext=heatmap" width="43%" /> <a href="https://github.com/Soham-Metha/virex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham-Metha&repo=virex&theme=tokyonight&show_owner=true&hide_border=true" width="400"/> </a>
+<details>
+  <summary>Leetcode</summary>
+<img src="https://leetcard.jacoblin.cool/Soham-Metha?theme=catppuccinMocha&font=Basic&ext=heatmap" width="43%" /> 
+  <details>
+    <summary>Badges</summary>
+    <p align="center">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="60" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60" /><br>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="60"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="60"/>
+  </p>
+  </details>
+</details>
+
+<details>
+  <summary>Featured Projects</summary>
+  <a href="https://github.com/Soham-Metha/virex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham-Metha&repo=virex&theme=tokyonight&show_owner=true&hide_border=true" width="400"/> </a>
 <!-- <img src="https://repobeats.axiom.co/api/embed/f97cd2b4327090163e02c14473729db0cc3051c6.svg" alt="Repobeats analytics image" /> -->
+</details>
 
-<!-- <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="60" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60" /><br>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="60"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="60"/>
-</p> -->
-
-### My farm
-
+<details>
+  <summary>My Farm</summary>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Soham-Metha&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Soham-Metha"
@@ -85,6 +95,7 @@
   height="300"
 />
 </a>
+</details>
 
 ![View Count](https://hit.yhype.me/github/profile?account_id=136834568)
 
