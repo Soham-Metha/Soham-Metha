@@ -9,7 +9,7 @@
 ### × GitRoll
 
   <a href="https://gitroll.io/profile/uOyL8BOc2tJfKWMdbn4otrjF3ir82" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uOyL8BOc2tJfKWMdbn4otrjF3ir82?theme=tokyoNight" width="69%" />
+    <img src="https://gitroll.io/api/badges/profiles/v1/uOyL8BOc2tJfKWMdbn4otrjF3ir82?theme=retro" width="69%" />
   </a>
 
 ### × Stats
@@ -17,23 +17,22 @@
 <p align="center">
 <!--img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Metha&theme=radical"!-->
   
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Soham's GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Soham-Metha&theme=tokyonight&mode=weekly&hide_border=true" alt="GitHub Streak" /><br>
+<img height=240 src="https://github-readme-stats.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage" alt="Soham's GitHub Stats" />
+<img height=240 src="https://streak-stats.demolab.com?user=Soham-Metha&theme=shades-of-purple&mode=weekly&hide_border=true&card_height=240" alt="GitHub Streak" /><br>
 
 ### × Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Soham-Metha&column=8&row=1&theme=discord&no-frame=true&no-bg=true&margin-w=4&title=-Experience" alt="GitHub Trophies" /><br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Soham-Metha&column=8&row=1&theme=discord&no-frame=true&no-bg=false&margin-w=4&title=-Experience" alt="GitHub Trophies" /><br>
 </p>
 
 ### × Contributions
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Metha&theme=tokyo-night&hide_border=true" >
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Metha&theme=synthwave-84&hide_border=true&hide_title=true&radius=9" >
 </div>
-<br>
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soham-Metha&theme=tokyonight&utcOffset=5.50">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soham-Metha&theme=tokyonight">
+<img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soham-Metha&theme=synthwave&utcOffset=5.50">
+<img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soham-Metha&theme=synthwave">
 
 <!--img height="24%" src="https://github-contributor-stats.vercel.app/api?username=Soham-Metha&limit=5&theme=radical&combine_all_yearly_contributions=true"!-->
 </p>
@@ -44,7 +43,7 @@
 
 ### Today's Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?type=horizontal&theme=shades-of-purple&layout=samuel" alt="Random Dev Quote" />
 
 <details>
   <summary>Latest Metrics</summary>
@@ -54,7 +53,7 @@
 
 <details>
   <summary>Leetcode</summary>
-<img src="https://leetcard.jacoblin.cool/Soham-Metha?theme=catppuccinMocha&font=Basic&ext=heatmap" width="43%" /> 
+<img src="https://leetcard.jacoblin.cool/Soham-Metha?theme=catppuccinMocha&font=Bai%20Jamjuree&ext=heatmap" width="43%" /> 
   <details>
     <summary>Badges</summary>
     <p align="center">
