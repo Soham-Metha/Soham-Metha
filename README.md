@@ -17,8 +17,8 @@
 <p align="center">
 <!--img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Metha&theme=radical"!-->
   
-<img height=240 src="https://github-readme-stats.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage" alt="Soham's GitHub Stats" />
-<img height=240 src="https://streak-stats.demolab.com?user=Soham-Metha&theme=shades-of-purple&mode=weekly&hide_border=true&card_height=240" alt="GitHub Streak" /><br>
+<img width="49.5%" height=240 src="https://github-readme-stats.vercel.app/api?username=Soham-Metha&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage" alt="Soham's GitHub Stats" />
+<img width="49.5%" height=240 src="https://streak-stats.demolab.com?user=Soham-Metha&theme=shades-of-purple&mode=weekly&hide_border=true&card_height=240" alt="GitHub Streak" /><br>
 
 ### × Trophies
 
